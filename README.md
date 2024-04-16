@@ -11,15 +11,15 @@
 
 ### 🖥 Skills
 
-- data analysis
+- Data Analysis
 
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535)  ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535)  ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535)  ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoumeh bazdar&show_icons=true&locale=en&layout=compact" alt="masoumeh bazdar" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=masoumeh bazdar&" alt="masoimeh bazdar" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoumehbazdar&show_icons=true&locale=en&layout=compact" alt="masoumehbazdar" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=masoumehbazdar&" alt="masoumehbazdar" />
 </div>
 
 
