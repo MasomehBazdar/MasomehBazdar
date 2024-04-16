@@ -1,4 +1,4 @@
-# Masomeh Bazdar
+# Masoumeh Bazdar
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/masoumeh-bazdar-213b71262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByrK3wqd0S2yMbpKQ%2B%2B0ESA%3D%3D)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:masoumehbazdar99)
