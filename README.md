@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:masoumehbazdar99)
 [![Github](https://img.shields.io/github/followers/MasomehBazdar?label=Follow&style=social)](https://github.com/MasomehBazdar/MasomehBazdar/tree/main)
 
-- 💻 I intrested data analysis.
+- 💻 I intrested Data Analysis.
 - 🌱 I learn Python, Machine Learning, Git, etc.
 - 📫 How to reach me: masomehbazdar99@gmail.com
 
