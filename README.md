@@ -6,7 +6,7 @@
 
 - 💻 I intrested Data Analysis.
 - 🌱 I learn Python, Machine Learning, Git, etc.
-- 📫 How to reach me: masomehbazdar99@gmail.com
+- 📫 How to reach me: masoumehbazdar99@gmail.com
 
 
 ### 🖥 Skills
