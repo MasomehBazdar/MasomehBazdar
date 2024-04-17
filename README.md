@@ -11,7 +11,9 @@
 
 ### 🖥 Skills
 
-- Data Analysis
+- Machine Lerning
+- Statistical Analysis
+- Analysis Visualization
 
 ### ⚙️ Tech Stack
 
