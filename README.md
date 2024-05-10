@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Data Analyst from Iran.
+  A Data Analyst.
 </p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/masoumeh-bazdar-213b71262/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByrK3wqd0S2yMbpKQ%2B%2B0ESA%3D%3D)
