@@ -17,7 +17,8 @@
 - **Data**: Working with datasets, data preprocessing, and data analysis  
 - **Other Skills**: Problem-solving, teamwork, fast learner  
 
-## 🚀 Projects ...
+## 🚀 Projects
+...
 
 
 ## 📚 Currently Learning  
@@ -44,4 +45,4 @@ I'm passionate about contributing to open-source projects and would love to coll
 
 
 ---
-:zap: To generate a `RE
+:zap: **Let's learn together and make the world of AI better!** 🚀
