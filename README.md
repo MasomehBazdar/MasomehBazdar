@@ -18,7 +18,7 @@
 - **Other Skills**: Problem-solving, teamwork, fast learner  
 
 ## 🚀 Projects
-...
+ - **Titanic---Machine-Learning-from-Disaster 
 
 
 ## 📚 Currently Learning  
