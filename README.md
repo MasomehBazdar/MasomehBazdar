@@ -26,8 +26,8 @@
   - Online courses on Deep Learning and advanced neural networks  
   - Advanced courses in Natural Language Processing (NLP)  
 - **Books**:  
-  - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron  
-  - "Deep Learning" by Ian Goodfellow
+  - "Designing Machine Learning Systems by Chip Huyen  
+  - "Pro Git by Scott Chacon, Ben Straub
  
 
   ## 🌱 Open Source Contributions  
